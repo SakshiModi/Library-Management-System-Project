@@ -152,7 +152,7 @@ def emplendreturnBook():
     Label(empBook_obj, text="").grid(row=9, columnspan=8)
 
 def addBook2():
-    Label(add_obj, text="                                                                     ", fg="green", font=("calibri", 11)).grid(row=13, columnspan=4)
+    Label(add_obj, text=" ", fg="green", font=("calibri", 11)).grid(row=13, columnspan=4)
     # add_book_id_info = add_book_id.get()
     add_book_name_info = add_book_name.get()
     add_author_info = add_author.get()
