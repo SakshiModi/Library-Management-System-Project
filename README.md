@@ -2,7 +2,7 @@
 
 The library management system is built using Tkinter GUI toolkit. It is all about organizing, managing the library and library-oriented tasks. It also involves maintaining the database of entering new books and the record of books that have been issued and returned back to the library. The main aim of this project is providing an easy to handle and automated library management system. 
 
-
+https://user-images.githubusercontent.com/29822270/193927535-a96f0f9c-14e9-423b-858c-7aad4003d93f.mp4
 
 The following are some of the features provided by this project –
 
